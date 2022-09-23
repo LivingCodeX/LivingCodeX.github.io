@@ -1,0 +1,24 @@
+body {
+	background-color: #202020
+}
+
+h1 {
+	color: #FF3344;
+}
+
+h2 {
+	color: #33FF44;
+}
+
+h3 {
+	color: #3388FF;
+	font-style: italic;
+}
+
+a {
+	color: #FFFF00
+}
+
+p {
+	color: #FFFFFF;
+}
